@@ -1,0 +1,3 @@
+Name: Code Libary
+Author: Visolator and various authors
+Missing functions are added into here so we don't have 10+ different types of versions of functions
